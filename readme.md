@@ -1,5 +1,6 @@
 ## Para para usar o projeto
-de um git clone do projeto e no seu terminal rode um 
+de um git clone do projeto e no seu terminal rode um
+
     npm i
 
 depois no terminal de um node app.js 
